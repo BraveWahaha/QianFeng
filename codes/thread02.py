@@ -22,3 +22,4 @@ if __name__ == '__main__':
     t3.start()
     t4.start()
     print('money:',money)
+    print('test the pull operation')
